@@ -1,1 +1,0 @@
-This is my amazing custom theme. build by Habeeb Developer.
