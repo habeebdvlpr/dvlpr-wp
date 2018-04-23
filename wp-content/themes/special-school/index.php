@@ -19,8 +19,8 @@
 	                <span class="event-summary__day">25</span>
 	                </a>
 	                <div class="event-summary__content">
-	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Poetry in the 100</a></h5>
-	                    <p>Bring poems you&rsquo;ve wrote to the 100 building this Tuesday for an open mic and snacks. <a href="#" class="nu gray">Learn more</a></p>
+	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Social Awareness</a></h5>
+	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis laborum voluptate, culpa dolor, accusamus velit natus sint magni voluptas perspiciatis nihil placeat ex mollitia laudantium error ullam facere ut architecto?<a href="#" class="nu gray">Learn more</a></p>
 	                </div>
 	            </div>
 	            <div class="event-summary">
@@ -29,8 +29,8 @@
 	                <span class="event-summary__day">02</span>
 	                </a>
 	                <div class="event-summary__content">
-	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Quad Picnic Party</a></h5>
-	                    <p>Live music, a taco truck and more can found in our third annual quad picnic day. <a href="#" class="nu gray">Learn more</a></p>
+	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Picnic Day</a></h5>
+	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, maiores. Sed tempore, incidunt consequatur impedit minus esse voluptas nemo eligendi ex saepe, vitae repellat eveniet debitis eius porro! Dolorem, accusamus.<a href="#" class="nu gray">Learn more</a></p>
 	                </div>
 	            </div>
 	            <p class="t-center no-margin"><a href="#" class="btn btn--blue">View All Events</a></p>
@@ -45,8 +45,8 @@
 	                <span class="event-summary__day">20</span>
 	                </a>
 	                <div class="event-summary__content">
-	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">We Were Voted Best School</a></h5>
-	                    <p>For the 100th year in a row we are voted #1. <a href="#" class="nu gray">Read more</a></p>
+	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Why its's called special school?</a></h5>
+	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus aliquid voluptatum nisi labore suscipit tenetur atque accusantium, cumque incidunt error officiis ad praesentium, laboriosam quidem blanditiis impedit excepturi repellat ipsa.</a></p>
 	                </div>
 	            </div>
 	            <div class="event-summary">
@@ -55,8 +55,8 @@
 	                <span class="event-summary__day">04</span>
 	                </a>
 	                <div class="event-summary__content">
-	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Professors in the National Spotlight</a></h5>
-	                    <p>Two of our professors have been in national news lately. <a href="#" class="nu gray">Read more</a></p>
+	                    <h5 class="event-summary__title headline headline--tiny"><a href="#">Thulir Employee Spotlight</a></h5>
+	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex natus non molestias tempore neque maxime fuga, incidunt saepe expedita. Dolore laboriosam, obcaecati provident molestiae earum eveniet porro totam, animi expedita!<a href="#" class="nu gray">Read more</a></p>
 	                </div>
 	            </div>
 	            <p class="t-center no-margin"><a href="#" class="btn btn--yellow">View All Blog Posts</a></p>
@@ -68,11 +68,11 @@
 	        <div class="hero-slider__interior container">
 	            <div class="hero-slider__overlay">
 	                <h2 class="headline headline--medium t-center">Free Transportation</h2>
-	                <p class="t-center">All students have free unlimited bus fare.</p>
+	                <p class="t-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur eius</p>
 	                <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
 	            </div>
 	        </div>
-	    </div>
+	    </div><!-- 
 	    <div class="hero-slider__slide" style="background-image: url(<?php echo get_theme_file_uri('images/apples.jpg'); ?>);">
 	        <div class="hero-slider__interior container">
 	            <div class="hero-slider__overlay">
@@ -82,12 +82,12 @@
 	                <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
 	            </div>
 	        </div>
-	    </div>
+	    </div> -->
 	    <div class="hero-slider__slide" style="background-image: url(<?php echo get_theme_file_uri('images/bread.jpg'); ?>);">
 	        <div class="hero-slider__interior container">
 	            <div class="hero-slider__overlay">
 	                <h2 class="headline headline--medium t-center">Free Food</h2>
-	                <p class="t-center">Fictional University offers lunch plans for those in need.</p>
+	                <p class="t-center">Thulir School offers lunch plans for those in need.</p>
 	                <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
 	            </div>
 	        </div>

@@ -6,5 +6,13 @@
 		wp_enqueue_style('school_main_styles', get_stylesheet_uri());
 		}
 
-		add_action('wp_enqueue_scripts', 'school_files');	
+		add_action('wp_enqueue_scripts', 'school_files');
+
+
+		function school_features()
+		{
+			add_theme_support('title-tag');
+		}
+
+		add_action('after_setup_theme', 'school_features');	
  ?>

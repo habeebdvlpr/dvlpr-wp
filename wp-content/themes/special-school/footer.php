@@ -2,7 +2,7 @@
     <div class="site-footer__inner container container--narrow">
         <div class="group">
             <div class="site-footer__col-one">
-                <h1 class="school-logo-text school-logo-text--alt-color"><a href="#"><strong>Special</strong> School</a></h1>
+                <h1 class="school-logo-text school-logo-text--alt-color"><a href="#"><strong>Thulir</strong> School</a></h1>
                 <p><a class="site-footer__link" href="#">Phone Number</a></p>
             </div>
             <div class="site-footer__col-two-three-group">
@@ -35,6 +35,11 @@
                         <li><a href="#" class="social-color-youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
                         <li><a href="#" class="social-color-instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
+                    <br>
+                    <ul class="min-list">
+                        <li><a href="https://www.facebook.com/habeebdvlpr" class="btn btn--small btn--blue
+                         float-left push-right">Developed by, <strong>Habeeb </strong></a></li>
+                    </ul>
                 </nav>
             </div>
         </div>
@@ -42,5 +47,6 @@
 </footer>
 
 <?php wp_footer(); ?>
+
 </body>
 </html>
